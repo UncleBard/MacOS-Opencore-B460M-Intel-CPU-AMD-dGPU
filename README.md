@@ -1,7 +1,7 @@
 # MacOS OpenCore for Intel i3 10th Generation Desktop with AMD Radeon RX 570 4 GB
 
 ## Introduction
-For the past few months, I've been working on getting macOS to run on my Intel desktop PC using OpenCore as the bootloader. It was a bit of a challenge at first. I spent a ton of time researching and experimenting with various settings. I had to use the integrated graphics card, the Intel HD Graphics 620, because I still don’t have a dedicated GPU.
+For the past few months, I've been working on getting macOS to run on my Intel desktop PC using OpenCore as the bootloader. It was a bit of a challenge at first. I spent a ton of time researching and experimenting with various settings. I had to use the integrated graphics card, the Intel UHD Graphics 630, because I still don’t have a dedicated GPU.
 
 Once I got the system up and running, I quickly found out that the integrated graphics card couldn't handle some of the more demanding applications that I needed to use. So, I decided to upgrade to the AMD Radeon RX 570 4 GB, which worked like a charm with my setup. However, getting it to work required a bit more tweaking to make sure my system used the dedicated graphics card instead of the integrated one.
 
